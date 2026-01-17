@@ -19,10 +19,7 @@
         "role": "member",
         "name": "solil",
         "member_id": "s1234",
-        "borrowed_books": [
-            "978-81-7758-279-6",
-            "Angular Momentum in Quantum Mechanics by A. R. Edmonds"
-        ]
+
     },
     "sakil": {
         "password": "sakil123",
