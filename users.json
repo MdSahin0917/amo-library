@@ -1,0 +1,35 @@
+{
+    "Sahin": {
+        "password": "Sahin@2002",
+        "email": "admin@library.com",
+        "role": "admin",
+        "name": "Sahin Admin",
+        "member_id": "ADM001"
+    },
+    "AMO": {
+        "password": "root123",
+        "email": "root@library.com",
+        "role": "admin",
+        "name": "amo",
+        "member_id": "ADM002"
+    },
+    "solil": {
+        "password": "solil123",
+        "email": "solil@gmail.com",
+        "role": "member",
+        "name": "solil",
+        "member_id": "s1234",
+        "borrowed_books": [
+            "978-81-7758-279-6",
+            "Angular Momentum in Quantum Mechanics by A. R. Edmonds"
+        ]
+    },
+    "sakil": {
+        "password": "sakil123",
+        "email": "sakil@gmail.com",
+        "role": "member",
+        "name": "sakil",
+        "member_id": "MEM848945",
+        "borrowed_books": []
+    }
+}
