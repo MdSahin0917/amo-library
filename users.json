@@ -20,13 +20,5 @@
         "name": "sakil",
         "member_id": "MEM848945",
         "borrowed_books": []
-    },
-    "jsaha84": {
-        "password": "Jibansaha@123",
-        "email": "jsaha84@gmail.com",
-        "role": "member",
-        "name": "JAYANTA KUMAR SAHA",
-        "member_id": "MEM112186",
-        "borrowed_books": []
     }
 }
